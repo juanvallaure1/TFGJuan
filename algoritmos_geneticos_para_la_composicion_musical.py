@@ -1576,7 +1576,7 @@ if __name__ == "__main__":
     torneo_ac = 10
     opt = max
     individuos_por_gen_ac = 100
-    generaciones_ac = 800
+    generaciones_ac = 1000
     padres_ac = 0.9
     mutacion_ac = 0.1
 
