@@ -1,0 +1,1 @@
+El presente código es fruto del trabajo de un año en el TFG de "Algoritmos Genéticos para Composición Musical". Se trata de una cronología del proceso de entrenamiento de un sencillo un algoritmo de optimización a partir de ciertas nociones musicales. Se aplica la heurística de los algoritmos genéticos para encontrar los máximos óptimos o subóptimos en la función objetivo. 
